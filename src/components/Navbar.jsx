@@ -7,7 +7,7 @@ import {
   MoneyCollectOutlined,
   BulbOutlined,
 } from "@ant-design/icons";
-import icon from "../images/Dogecoin_Logo.png";
+import icon from "../images/icon.png";
 
 const Navbar = () => {
   return (
